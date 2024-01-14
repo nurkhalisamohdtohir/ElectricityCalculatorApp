@@ -25,7 +25,7 @@ Welcome to the Electricity Calculator App! This PHP-based application allows use
 - Energy (kWh) = Power * Hour * 1000
 - Total = Energy(kWh) * (Current Rate / 100)
 
-## Image
+## User Interface
 
 ![kiraelektrik](https://github.com/nurkhalisamohdtohir/ElectricityCalculatorApp/assets/80879270/8c2e16cd-7c75-408c-8535-4071b866547c)
 
