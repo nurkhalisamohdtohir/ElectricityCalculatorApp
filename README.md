@@ -28,4 +28,5 @@ Welcome to the Electricity Calculator App! This PHP-based application allows use
 ## Image
 
 ![kiraelektrik](https://github.com/nurkhalisamohdtohir/ElectricityCalculatorApp/assets/80879270/8c2e16cd-7c75-408c-8535-4071b866547c)
+
 ![kiraelektrik2](https://github.com/nurkhalisamohdtohir/ElectricityCalculatorApp/assets/80879270/4436be7e-6b13-4f06-aaa1-c0694fbf2d92)
